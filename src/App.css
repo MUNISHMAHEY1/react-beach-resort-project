@@ -277,11 +277,11 @@ h6 {
   font-size: 3rem;
   margin-bottom: 1rem;
 }
-.service span:hover{
+/* .service span:hover{
   font-size: 4rem;
   color:blue;
   transition:var(--mainTransition)
-}
+} */
 .services h6 {
   letter-spacing: var(--mainSpacing);
   text-transform: capitalize;
